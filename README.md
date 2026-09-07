@@ -1,1 +1,1 @@
-# Sistema_de_informaci-n_adicciones
+# Sistema de Información Adicciones
